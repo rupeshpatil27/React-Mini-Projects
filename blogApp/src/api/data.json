@@ -1,0 +1,173 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Mastering React",
+      "body": "Learn how to master React.js step by step with real-world examples.",
+      "tags": [
+        "react",
+        "frontend"
+      ],
+      "reactions": {
+        "likes": 243,
+        "dislikes": 17
+      },
+      "views": 1023,
+      "image": "https://picsum.photos/id/101/800/600"
+    },
+    {
+      "id": 2,
+      "title": "Understanding Redux Toolkit",
+      "body": "Redux Toolkit simplifies state management in modern React apps.",
+      "tags": [
+        "redux",
+        "state",
+        "javascript"
+      ],
+      "reactions": {
+        "likes": 180,
+        "dislikes": 25
+      },
+      "views": 876,
+      "image": "https://picsum.photos/id/102/800/600"
+    },
+    {
+      "id": 3,
+      "title": "10 Tailwind CSS Tricks",
+      "body": "Boost your design workflow with these Tailwind CSS techniques.",
+      "tags": [
+        "css",
+        "tailwind"
+      ],
+      "reactions": {
+        "likes": 320,
+        "dislikes": 8
+      },
+      "views": 1420,
+      "image": "https://picsum.photos/id/103/800/600"
+    },
+    {
+      "id": 4,
+      "title": "Why TypeScript Matters",
+      "body": "Improve code quality and maintainability with TypeScript.",
+      "tags": [
+        "typescript",
+        "javascript"
+      ],
+      "reactions": {
+        "likes": 195,
+        "dislikes": 30
+      },
+      "views": 920,
+      "image": "https://picsum.photos/id/104/800/600"
+    },
+    {
+      "id": 5,
+      "title": "Async/Await in JS",
+      "body": "Handle asynchronous code in JavaScript the clean way.",
+      "tags": [
+        "async",
+        "javascript",
+        "promises"
+      ],
+      "reactions": {
+        "likes": 210,
+        "dislikes": 12
+      },
+      "views": 1080,
+      "image": "https://picsum.photos/id/105/800/600"
+    },
+    {
+      "id": 6,
+      "title": "Next.js Routing Guide",
+      "body": "Everything you need to know about routing in Next.js.",
+      "tags": [
+        "nextjs",
+        "routing",
+        "react"
+      ],
+      "reactions": {
+        "likes": 260,
+        "dislikes": 15
+      },
+      "views": 998,
+      "image": "https://picsum.photos/id/106/800/600"
+    },
+    {
+      "id": 7,
+      "title": "Styled Components vs Tailwind",
+      "body": "Compare two popular styling approaches in React apps.",
+      "tags": [
+        "styled-components",
+        "tailwind"
+      ],
+      "reactions": {
+        "likes": 165,
+        "dislikes": 40
+      },
+      "views": 720,
+      "image": "https://picsum.photos/id/107/800/600"
+    },
+    {
+      "id": 8,
+      "title": "Deploying React to Vercel",
+      "body": "Simple guide to deploy React projects using Vercel.",
+      "tags": [
+        "deployment",
+        "react",
+        "vercel"
+      ],
+      "reactions": {
+        "likes": 132,
+        "dislikes": 9
+      },
+      "views": 845,
+      "image": "https://picsum.photos/id/108/800/600"
+    },
+    {
+      "id": 9,
+      "title": "React Performance Tips",
+      "body": "Optimize your React applications for better performance.",
+      "tags": [
+        "react",
+        "performance"
+      ],
+      "reactions": {
+        "likes": 275,
+        "dislikes": 18
+      },
+      "views": 1305,
+      "image": "https://picsum.photos/id/109/800/600"
+    },
+    {
+      "id": 10,
+      "title": "Dark Mode with Tailwind",
+      "body": "Implement dark mode easily using Tailwind CSS.",
+      "tags": [
+        "dark-mode",
+        "tailwind"
+      ],
+      "reactions": {
+        "likes": 188,
+        "dislikes": 11
+      },
+      "views": 982,
+      "image": "https://picsum.photos/id/110/800/600"
+    },
+    {
+      "id": 11,
+      "title": "this test blog",
+      "body": "test blog",
+      "tags": [
+        "blog",
+        "post"
+      ],
+      "reactions": {
+        "likes": 191,
+        "dislikes": 76
+      },
+      "views": 322,
+      "image": "https://picsum.photos/id/459/800/600"
+    }
+  ]
+}
